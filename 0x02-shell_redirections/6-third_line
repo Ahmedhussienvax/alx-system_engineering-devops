@@ -1,2 +1,2 @@
 #!/bin/bash
-greb -n 3 iacta
+greb -n=3 iacta
